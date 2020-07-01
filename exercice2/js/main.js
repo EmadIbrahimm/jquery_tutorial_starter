@@ -1,0 +1,1 @@
+$("#square").css({"size": "500px", "color": "blue"});
